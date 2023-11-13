@@ -1,0 +1,29 @@
+http://ws-idesc.cali.gov.co:8081/geoserver/wfs?
+
+Equipamientos
+	Urbanos básicos 
+		Administracion Basica
+		Seguridad ciudadana
+	Urbanos Colectivos
+		Nodos de equipamientos urbanos
+		Areas priorizadas para el desarrollo de equipamientos
+		Permanencia de uso
+	SECRETARIA DE CULTURA
+		BIBLIOTECAS PUBLICAS
+		PATRIMONIO CULTURAL INMATERIRAL
+		PATRIMONIO CULTURAL MATERIAL
+			BIENES MUEBKES DE INTERES CULTURAL
+	SECRETARIA DEL DEPORTE Y LA RECREACION
+		ESCENARIOS DEPORTIVOS
+	SECRETARIA DE EDUCACION MUNICIPAL
+		INSTITUCIONES EDUCATIVAS OFICIALES
+	SECRETARIA DE INFRAESTRUCTURA
+		PUENTES
+	SECRETARIA DE SALUD PUBLICA
+		IPS
+		EPS
+		APS
+	
+
+	
+		

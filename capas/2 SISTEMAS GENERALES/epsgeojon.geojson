@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "epsgeojon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3115" } },
+"features": [
+{ "type": "Feature", "properties": { "nombre": "HOSPITAL GERIATRICO SAN MIGUEL", "direccion": "KRA 70 # 2A 04", "natueps": "PUBLICA" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1058406.926547850016505, 866924.694077490014024 ] ] } },
+{ "type": "Feature", "properties": { "nombre": "PUESTO DE SALUD ALTO NAPOLES", "direccion": "CLL 2B # 82D 11", "natueps": "PUBLICA" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1057631.745834359899163, 865883.174145170021802 ] ] } },
+{ "type": "Feature", "properties": { "nombre": "PUESTO DE SALUD POLVORINES", "direccion": "KR 94A 1 OESTE # 2A 00", "natueps": "PUBLICA" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1057968.853294180007651, 865030.963033800013363 ] ] } },
+{ "type": "Feature", "properties": { "nombre": "CENTRO DE SALUD MELENDEZ", "direccion": "KR 94C # 4C 65", "natueps": "PUBLICA" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1059323.293602109886706, 865133.168994670035318 ] ] } },
+{ "type": "Feature", "properties": { "nombre": "HOSPITAL PSIQUIATRICO UNIVERSITARIO DEL VALLE", "direccion": "CLL 5 # 80 00", "natueps": "PUBLICA" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1059153.283302509924397, 866376.883796819951385 ] ] } },
+{ "type": "Feature", "properties": { "nombre": "CENTRO DE BELLEZA CORPORAL", "direccion": "KARR 95 # 3B 32", "natueps": "PRIVADO" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1058786.434451150009409, 864865.836777899996378 ] ] } }
+]
+}
